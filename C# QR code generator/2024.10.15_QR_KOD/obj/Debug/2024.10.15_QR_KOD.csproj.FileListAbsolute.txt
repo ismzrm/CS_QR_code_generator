@@ -1,0 +1,39 @@
+c:\users\user\Desktop\2024.10.15_QR_KOD\2024.10.15_QR_KOD\bin\Debug\2024.10.15_QR_KOD.exe.config
+c:\users\user\Desktop\2024.10.15_QR_KOD\2024.10.15_QR_KOD\bin\Debug\2024.10.15_QR_KOD.exe
+c:\users\user\Desktop\2024.10.15_QR_KOD\2024.10.15_QR_KOD\bin\Debug\2024.10.15_QR_KOD.pdb
+c:\users\user\Desktop\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10.15_QR_KOD.csprojResolveAssemblyReference.cache
+c:\users\user\Desktop\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\_2024._10._15_QR_KOD.Form1.resources
+c:\users\user\Desktop\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\_2024._10._15_QR_KOD.Properties.Resources.resources
+c:\users\user\Desktop\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10.15_QR_KOD.csproj.GenerateResource.Cache
+c:\users\user\Desktop\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10.15_QR_KOD.exe
+c:\users\user\Desktop\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10.15_QR_KOD.pdb
+c:\users\user\Desktop\2024.10.15_QR_KOD\2024.10.15_QR_KOD\bin\Debug\MessagingToolkit.QRCode.dll
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\bin\Debug\2024.10.15_QR_KOD.exe.config
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10.15_QR_KOD.exe
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10.15_QR_KOD.pdb
+G:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\bin\Debug\2024.10.15_QR_KOD.exe.config
+G:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10.15_QR_KOD.exe
+G:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10.15_QR_KOD.pdb
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\bin\Debug\2024.10.15_QR_KOD.exe.config
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10.15_QR_KOD.exe
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10.15_QR_KOD.pdb
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\bin\Debug\2024.10.15_QR_KOD.exe.config
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\bin\Debug\2024.10.15_QR_KOD.exe
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\bin\Debug\2024.10.15_QR_KOD.pdb
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10.15_QR_KOD.csproj.AssemblyReference.cache
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\_2024._10._15_QR_KOD.Form1.resources
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\_2024._10._15_QR_KOD.Form2.resources
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\_2024._10._15_QR_KOD.Properties.Resources.resources
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10.15_QR_KOD.csproj.GenerateResource.cache
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10.15_QR_KOD.csproj.CoreCompileInputs.cache
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10..BC7FA2A4.Up2Date
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10.15_QR_KOD.exe
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10.15_QR_KOD.pdb
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\bin\Debug\2024.10.15_QR_KOD.exe
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\bin\Debug\2024.10.15_QR_KOD.pdb
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10.15_QR_KOD.csproj.AssemblyReference.cache
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\_2024._10._15_QR_KOD.Form1.resources
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\_2024._10._15_QR_KOD.Properties.Resources.resources
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10.15_QR_KOD.csproj.GenerateResource.cache
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10.15_QR_KOD.csproj.CoreCompileInputs.cache
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.15_QR_KOD\2024.10.15_QR_KOD\obj\Debug\2024.10..BC7FA2A4.Up2Date
